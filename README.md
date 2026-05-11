@@ -31,7 +31,7 @@ This project showcases the integration of security analysis into the software de
 |-----------|------|---------|--------|
 | SAST | Bandit | Push/Pull Request | HTML/Text Reports |
 | DAST | OWASP ZAP | Push/Pull Request | HTML Report on GitHub Pages |
-| Threat Model Validation | jq | Threat model changes | JSON Validation |
+| Threat Model Validation | Owasp Threat dragon | Threat model changes | JSON Validation |
 
 ## Threat Model (STRIDE Analysis)
 
